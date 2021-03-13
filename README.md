@@ -5,11 +5,11 @@ Scripts I have written as part of a course, adapted to my liking of course. *Thi
 Course 1: Python for Pentesters
 =============
 Author: Christi Zot
-Course: [Named Link](https://www.udemy.com/course/python-for-pentesters/ "Python for Pentesters")
+Course: (https://www.udemy.com/course/python-for-pentesters/ "Python for Pentesters")
 
 Script 1: Banner_grab.py
 ------
-Retrieves the response headers of a URL, its hostname and Geolocational data through the [Named Link](Link to IPinfo: https://ipinfo.io/ "IPInfo API")
+Retrieves the response headers of a URL, its hostname and Geolocational data through the (Link to IPinfo: https://ipinfo.io/ "IPInfo API")
 
 Usage:
 python3 banner_grab.py <URL>
