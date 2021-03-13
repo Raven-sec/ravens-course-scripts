@@ -10,7 +10,8 @@ Course: [Named Link](https://www.udemy.com/course/python-for-pentesters/ "Python
 Scripts
 ---------------
 
-###Script1: Banner_grab.py###
+Script1: Banner_grab.py
+------
 Retrieves the response headers of a URL, its hostname and Geolocational data through the [Named Link](Link to IPinfo: https://ipinfo.io/ "IPInfo API")
 
 Usage:
