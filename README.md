@@ -1,5 +1,5 @@
 # ravens-course-scripts
-Scripts I have written as part of a course, adapted to my liking of course. *This is a work in progress*
+Scripts I have written as part of a course, adapted to my specifications. *This is a work in progress*
 
 
 Course 1: Python for Pentesters
